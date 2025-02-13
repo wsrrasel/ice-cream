@@ -172,6 +172,7 @@ public/*
     }
 }
 ```
+
 Chat
 
 New Conversation
@@ -180,16 +181,13 @@ New Conversation
 
 Explain Artificial Intelligence so that I can explain it to my six-year-old child.
 
-
 🧠 Get suggestions and create new ideas
 
 Please give me the best 10 travel ideas around the world
 
-
 💭 Translate, summarize, fix grammar and more…
 
 Translate "I love you" French
-
 
 GPT-4o Mini
 Hello, how can I help you today?
@@ -199,11 +197,7 @@ coin image
 10
 Upgrade
 
-
-
 Ask me anything...
-
-
 
 Make a Review & Earn Credit ❤
 Chat
